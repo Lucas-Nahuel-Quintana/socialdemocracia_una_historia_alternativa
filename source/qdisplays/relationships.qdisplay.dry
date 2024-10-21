@@ -1,9 +1,9 @@
 
-(..5) hostile
-(5..14.9) frigid
-(14.9..29.9) cold
-(29.9..39.9) cool
+(..5) hostiles
+(5..14.9) frigidas
+(14.9..29.9) frías
+(29.9..39.9) tensas
 (39.9..54.9) neutral
-(54.9..64.9) warm
-(64.9..74.9) friendly
-(74.9..) very friendly
+(54.9..64.9) amigables
+(64.9..74.9) muy amigables
+(74.9..) aliado
